@@ -1,4 +1,4 @@
-# Git Lab #2
+# The second Git lab
 ## First team member: Daniyar Baktybek
-
-Die class project. It simulates a die and includes a driver program.
+## Second team member: John Titor
+### Die Project: simulates the rolling of a die with a specified number of sides.
